@@ -1,0 +1,22 @@
+From 758661b18bfaffc016349723f1e3b63130b6aec9 Mon Sep 17 00:00:00 2001
+From: Omar-projects-in-github <polat.omar2002@gmail.com>
+Date: Sat, 5 Aug 2023 23:46:46 +0600
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | Bin 288 -> 324 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index c53ce3537701e1fd8f2ecd017ff91229d0413274..702c1d3903fa0a4f3cc86d05904ecd63b17d0f15 100644
+GIT binary patch
+delta 70
+zcmZ3$bcAWbB|!y-T!wsx6oyQOG$2l8NSS!iTnj^xftP`cp@5;7p^_n)Ap@u(2Z+;w
+FJOF9t56J)k
+
+delta 13
+VcmX@Yw18>CrHN0>ChIUt001fU1x^3}
+
+-- 
+2.36.1.windows.1
+
